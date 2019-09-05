@@ -1,0 +1,11 @@
+<resources>
+    <layout id="MainLayout">
+        <label text="SWEREF 99 TM:" x="center" y="47" font="Graphics.FONT_MEDIUM" color="Graphics.COLOR_ORANGE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+        <label id ="NLabel" text="N:" x="30" y="77" font="Graphics.FONT_MEDIUM" color="Graphics.COLOR_ORANGE" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+        <label id ="ELabel" text="E:" x="30" y="107" font="Graphics.FONT_MEDIUM" color="Graphics.COLOR_ORANGE" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+        <label id ="NCoordinate" text="????" x="67" y="80" font="Graphics.FONT_MEDIUM" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+        <label id ="ECoordinate" text="????" x="67" y="110" font="Graphics.FONT_MEDIUM" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_LEFT" />
+        <label id ="QualityLabel" text="Quality:" x="center" y="147" font="Graphics.FONT_MEDIUM" color="Graphics.COLOR_ORANGE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+        <label id ="QualityValue" text="????" x="center" y="177" font="Graphics.FONT_MEDIUM" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    </layout>
+</resources>

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <pcToLineNum>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefApp.mc" id="3" lineNum="5" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefApp.mc" id="3" lineNum="6" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefApp.mc" id="4" lineNum="10" pc="268435479" symbol="onStart"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefApp.mc" id="5" lineNum="14" pc="268435484" symbol="onStop"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefApp.mc" id="6" lineNum="18" pc="268435489" symbol="getInitialView"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefApp.mc" id="6" lineNum="19" pc="268435493" symbol="getInitialView"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="8" lineNum="8" pc="268435531" symbol="initialize"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="8" lineNum="9" pc="268435535" symbol="initialize"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="8" lineNum="10" pc="268435553" symbol="initialize"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="9" lineNum="14" pc="268435598" symbol="onLayout"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="9" lineNum="17" pc="268435602" symbol="onLayout"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="10" lineNum="40" pc="268435640" symbol="onShow"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="11" lineNum="44" pc="268435645" symbol="onUpdate"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="11" lineNum="46" pc="268435649" symbol="onUpdate"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="12" lineNum="52" pc="268435670" symbol="onHide"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="13" lineNum="55" pc="268435675" symbol="onPosition"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="13" lineNum="56" pc="268435679" symbol="onPosition"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="13" lineNum="57" pc="268435698" symbol="onPosition"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="13" lineNum="58" pc="268435708" symbol="onPosition"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="13" lineNum="59" pc="268435715" symbol="onPosition"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="13" lineNum="61" pc="268435749" symbol="onPosition"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="13" lineNum="63" pc="268435767" symbol="onPosition"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="13" lineNum="66" pc="268435800" symbol="onPosition"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="13" lineNum="67" pc="268435828" symbol="onPosition"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="13" lineNum="68" pc="268435866" symbol="onPosition"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="13" lineNum="69" pc="268435894" symbol="onPosition"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="13" lineNum="70" pc="268435932" symbol="onPosition"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="13" lineNum="71" pc="268435960" symbol="onPosition"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="13" lineNum="73" pc="268436105" symbol="onPosition"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="13" lineNum="74" pc="268436112" symbol="onPosition"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="13" lineNum="76" pc="268436115" symbol="onPosition"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="13" lineNum="77" pc="268436122" symbol="onPosition"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="13" lineNum="79" pc="268436125" symbol="onPosition"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="13" lineNum="80" pc="268436132" symbol="onPosition"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="13" lineNum="82" pc="268436135" symbol="onPosition"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="13" lineNum="83" pc="268436142" symbol="onPosition"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="13" lineNum="85" pc="268436145" symbol="onPosition"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="13" lineNum="89" pc="268436152" symbol="onPosition"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="13" lineNum="91" pc="268436155" symbol="onPosition"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="13" lineNum="92" pc="268436169" symbol="onPosition"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="96" pc="268436186" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="98" pc="268436190" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="99" pc="268436200" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="100" pc="268436210" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="103" pc="268436218" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="104" pc="268436225" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="105" pc="268436232" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="106" pc="268436239" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="107" pc="268436258" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="108" pc="268436265" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="109" pc="268436272" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="112" pc="268436279" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="113" pc="268436292" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="114" pc="268436305" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="115" pc="268436354" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="116" pc="268436358" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="117" pc="268436386" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="118" pc="268436426" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="119" pc="268436451" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="120" pc="268436524" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="121" pc="268436588" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="122" pc="268436634" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="125" pc="268436659" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="126" pc="268436825" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="127" pc="268436832" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="128" pc="268436884" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="130" pc="268436932" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="131" pc="268437133" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="133" pc="268437334" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="134" pc="268437371" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="14" lineNum="136" pc="268437408" symbol="getSweref99tmCoordinates"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="15" lineNum="139" pc="268437412" symbol="sinh"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="15" lineNum="141" pc="268437416" symbol="sinh"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="16" lineNum="144" pc="268437489" symbol="cosh"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="16" lineNum="146" pc="268437493" symbol="cosh"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="17" lineNum="150" pc="268437566" symbol="atanh"/>
+        <entry filename="/Users/martin/workspace/GarminApps/PositionWGS84/source/PositionSwerefView.mc" id="17" lineNum="152" pc="268437570" symbol="atanh"/>
+        <entry filename="Rez" id="24" lineNum="20" pc="268437610" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="24" pc="268437622" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="25" pc="268437778" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="26" pc="268437811" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="27" pc="268437863" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="28" pc="268438017" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="29" pc="268438171" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="30" pc="268438325" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="31" pc="268438479" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="32" pc="268438648" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="33" pc="268438681" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="34" pc="268438733" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="35" pc="268438902" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="36" pc="268438935" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="39" pc="268438987" symbol="MainLayout"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="10" object="true" symbol="PositionSwerefView"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="20" method="true" symbol="atanh"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="17" method="true" symbol="getSweref99tmCoordinates"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="14" method="true" symbol="MainLayout"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="15" symbol="AppName"/>
+        <entry id="18" method="true" symbol="sinh"/>
+        <entry id="8388641" module="true" symbol="Math"/>
+        <entry field="true" id="13" symbol="LauncherIcon"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="9" object="true" symbol="PositionSwerefApp"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="19" method="true" symbol="cosh"/>
+        <entry id="16" method="true" symbol="onPosition"/>
+        <entry id="12" module="true" symbol="Layouts"/>
+        <entry id="8388642" module="true" symbol="Position"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="8389346" symbol="text"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="11" module="true" symbol="Menus"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+        <entry endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+        <entry endPc="268435640" name="dc" stackId="1" startPc="268435598"/>
+        <entry endPc="268435670" name="dc" stackId="1" startPc="268435645"/>
+        <entry endPc="268436185" name="qualityString" stackId="4" startPc="268435679"/>
+        <entry endPc="268436185" name="viewQ" stackId="8" startPc="268435679"/>
+        <entry endPc="268436185" name="swerefCoordinates" stackId="5" startPc="268435679"/>
+        <entry endPc="268436185" name="myAccuracy" stackId="3" startPc="268435679"/>
+        <entry endPc="268436185" name="viewY" stackId="7" startPc="268435679"/>
+        <entry endPc="268436185" name="viewX" stackId="6" startPc="268435679"/>
+        <entry endPc="268436185" name="myLocation" stackId="2" startPc="268435679"/>
+        <entry endPc="268436186" name="info" stackId="1" startPc="268435675"/>
+        <entry endPc="268437411" name="eta_prim" stackId="26" startPc="268436190"/>
+        <entry endPc="268437411" name="phi" stackId="2" startPc="268436190"/>
+        <entry endPc="268437411" name="axis" stackId="5" startPc="268436190"/>
+        <entry endPc="268437411" name="false_northing" stackId="10" startPc="268436190"/>
+        <entry endPc="268437411" name="e2" stackId="12" startPc="268436190"/>
+        <entry endPc="268437411" name="N" stackId="27" startPc="268436190"/>
+        <entry endPc="268437411" name="lambda_0" stackId="8" startPc="268436190"/>
+        <entry endPc="268437411" name="central_meridian" stackId="7" startPc="268436190"/>
+        <entry endPc="268437411" name="a_roof" stackId="14" startPc="268436190"/>
+        <entry endPc="268437411" name="false_easting" stackId="11" startPc="268436190"/>
+        <entry endPc="268437411" name="lambda" stackId="3" startPc="268436190"/>
+        <entry endPc="268437411" name="E" stackId="28" startPc="268436190"/>
+        <entry endPc="268437411" name="D" stackId="18" startPc="268436190"/>
+        <entry endPc="268437411" name="phi_star" stackId="23" startPc="268436190"/>
+        <entry endPc="268437411" name="C" stackId="17" startPc="268436190"/>
+        <entry endPc="268437411" name="beta4" stackId="22" startPc="268436190"/>
+        <entry endPc="268437411" name="B" stackId="16" startPc="268436190"/>
+        <entry endPc="268437411" name="beta3" stackId="21" startPc="268436190"/>
+        <entry endPc="268437411" name="A" stackId="15" startPc="268436190"/>
+        <entry endPc="268437411" name="beta2" stackId="20" startPc="268436190"/>
+        <entry endPc="268437411" name="beta1" stackId="19" startPc="268436190"/>
+        <entry endPc="268437411" name="n" stackId="13" startPc="268436190"/>
+        <entry endPc="268437411" name="xi_prim" stackId="25" startPc="268436190"/>
+        <entry endPc="268437411" name="sweref" stackId="4" startPc="268436190"/>
+        <entry endPc="268437411" name="flattening" stackId="6" startPc="268436190"/>
+        <entry endPc="268437411" name="delta_lambda" stackId="24" startPc="268436190"/>
+        <entry endPc="268437411" name="scale" stackId="9" startPc="268436190"/>
+        <entry endPc="268437412" name="newPosition" stackId="1" startPc="268436186"/>
+        <entry endPc="268437489" name="x" stackId="1" startPc="268437412"/>
+        <entry endPc="268437566" name="x" stackId="1" startPc="268437489"/>
+        <entry endPc="268437610" name="x" stackId="1" startPc="268437566"/>
+        <entry endPc="268439064" name="rez_cmp_local_bitmap_QualityValue_fontHeight" stackId="11" startPc="268437622"/>
+        <entry endPc="268439064" name="rez_cmp_local_bitmap_ELabel" stackId="5" startPc="268437622"/>
+        <entry endPc="268439064" name="rez_cmp_local_bitmap_QualityLabel" stackId="8" startPc="268437622"/>
+        <entry endPc="268439064" name="rez_cmp_local_bitmap_QualityValue" stackId="10" startPc="268437622"/>
+        <entry endPc="268439064" name="rez_cmp_local_bitmap_9850537871_fontHeight" stackId="3" startPc="268437622"/>
+        <entry endPc="268439064" name="rez_cmp_local_bitmap_QualityLabel_fontHeight" stackId="9" startPc="268437622"/>
+        <entry endPc="268439064" name="rez_cmp_local_bitmap_9850537871" stackId="2" startPc="268437622"/>
+        <entry endPc="268439064" name="rez_cmp_local_bitmap_NCoordinate" stackId="6" startPc="268437622"/>
+        <entry endPc="268439064" name="rez_cmp_local_bitmap_NLabel" stackId="4" startPc="268437622"/>
+        <entry endPc="268439064" name="rez_cmp_local_bitmap_ECoordinate" stackId="7" startPc="268437622"/>
+        <entry endPc="268439065" name="dc" stackId="1" startPc="268437610"/>
+    </localVars>
+    <annotations/>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="PositionSwerefApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="PositionSwerefApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="PositionSwerefApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="PositionSwerefApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="PositionSwerefView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="PositionSwerefView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="PositionSwerefView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="PositionSwerefView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="PositionSwerefView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPosition" parent="PositionSwerefView">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getSweref99tmCoordinates" parent="PositionSwerefView">
+            <param id="newPosition"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="sinh" parent="PositionSwerefView">
+            <param id="x"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="cosh" parent="PositionSwerefView">
+            <param id="x"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="atanh" parent="PositionSwerefView">
+            <param id="x"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation>
+                <![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]>
+            </documentation>
+        </functionEntry>
+    </functions>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="166" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="245" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="284" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="315" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="346" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="377" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="416" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="455" parentId="globals" symbolId="PositionSwerefView" type="class"/>
+        <dataEntry offset="574" parentId="globals" symbolId="PositionSwerefApp" type="class"/>
+    </dataEntryOffsetMappings>
+</debugInfo>
