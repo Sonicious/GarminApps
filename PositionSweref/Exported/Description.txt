@@ -1,0 +1,22 @@
+Title: GPS Information in SWEREF 99 TM
+
+Englisch:
+This app shows the actual GPS position in the swedish coordinate System SWEREF 99 TM. This makes it easier to find yourself on maps based on this system like Calazo maps or Fjällkartan maps.
+
+App was programmed in the style of simplicity:
+* no logging
+* simple Design
+* no persistent memory needed
+
+Testing was done on Vivoactive 3.
+
+
+Deutsch:
+App für die ANzeige der GPS Koordinaten im SWEREF 99 TM System. Besonders hildfreich, um sich auf Karten in Schweden zurecht zu finden wie von Calazo oder Fjällkartan angeboten
+
+App was programmed in the style of simplicity:
+* no logging
+* simple Design
+* no persistent memory needed
+
+Testing was done on Vivoactive 3.

@@ -100,26 +100,26 @@ class PositionSwerefView extends Ui.View {
 		var sweref = new [2];
 				
 	    // all parameters for GRS80 and SWEREF 99 TM
-		var axis = 6378137.0; // GRS 1980
-		var flattening = 1.0 / 298.257222101; // GRS 1980.
-		var central_meridian = 15; // 15°E
+		var axis = 6378137.0d; // GRS 1980
+		var flattening = 1.0d / 298.257222101d; // GRS 1980.
+		var central_meridian = 15d; // 15°E
 		var lambda_0 = Math.toRadians(central_meridian);
-		var scale = 0.9996;
-		var false_northing = 0.0;
-		var false_easting = 500000.0;
+		var scale = 0.9996d;
+		var false_northing = 0.0d;
+		var false_easting = 500000.0d;
 		
 		// Prepare ellipsoid-based stuff.
-		var e2 = flattening * (2.0 - flattening);
-		var n = flattening / (2.0 - flattening);
-		var a_roof = axis / (1.0 + n) * (1.0 + n*n/4.0 + n*n*n*n/64.0);
+		var e2 = flattening * (2.0d - flattening);
+		var n = flattening / (2.0d - flattening);
+		var a_roof = axis / (1.0d + n) * (1.0 + n*n/4.0d + n*n*n*n/64.0d);
 		var A = e2;
-		var B = (5.0*e2*e2 - e2*e2*e2) / 6.0;
-		var C = (104.0*e2*e2*e2 - 45.0*e2*e2*e2*e2) / 120.0;
-		var D = (1237.0*e2*e2*e2*e2) / 1260.0;
-		var beta1 = n/2.0 - 2.0*n*n/3.0 + 5.0*n*n*n/16.0 + 41.0*n*n*n*n/180.0;
-		var beta2 = 13.0*n*n/48.0 - 3.0*n*n*n/5.0 + 557.0*n*n*n*n/1440.0;
-		var beta3 = 61.0*n*n*n/240.0 - 103.0*n*n*n*n/140.0;
-		var beta4 = 49561.0*n*n*n*n/161280.0;
+		var B = (5.0d*e2*e2 - e2*e2*e2) / 6.0d;
+		var C = (104.0d*e2*e2*e2 - 45.0d*e2*e2*e2*e2) / 120.0d;
+		var D = (1237.0d*e2*e2*e2*e2) / 1260.0d;
+		var beta1 = n/2.0d - 2.0d*n*n/3.0d + 5.0d*n*n*n/16.0d + 41.0d*n*n*n*n/180.0d;
+		var beta2 = 13.0d*n*n/48.0d - 3.0d*n*n*n/5.0d + 557.0d*n*n*n*n/1440.0d;
+		var beta3 = 61.0d*n*n*n/240.0d - 103.0d*n*n*n*n/140.0d;
+		var beta4 = 49561.0d*n*n*n*n/161280.0d;
 	    
 	    // convert
 		var phi_star = phi-Math.sin(phi)*Math.cos(phi)*(A+B*Math.pow(Math.sin(phi),2)+C*Math.pow(Math.sin(phi),4)+D*Math.pow(Math.sin(phi),6));
