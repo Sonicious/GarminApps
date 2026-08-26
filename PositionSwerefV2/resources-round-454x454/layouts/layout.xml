@@ -1,0 +1,74 @@
+<resources>
+    <layout id="MainLayout">
+
+        <label
+            text="SWEREF 99 TM"
+            x="center"
+            y="100"
+            font="Graphics.FONT_MEDIUM"
+            color="Graphics.COLOR_ORANGE"
+            justification="Graphics.TEXT_JUSTIFY_CENTER"
+        />
+
+        <label
+            id="NLabel"
+            text="N"
+            x="70"
+            y="170"
+            font="Graphics.FONT_MEDIUM"
+            color="Graphics.COLOR_ORANGE"
+            justification="Graphics.TEXT_JUSTIFY_LEFT"
+        />
+
+        <label
+            id="NCoordinate"
+            text="-------"
+            x="110"
+            y="170"
+            font="Graphics.FONT_MEDIUM"
+            color="Graphics.COLOR_WHITE"
+            justification="Graphics.TEXT_JUSTIFY_LEFT"
+        />
+
+        <label
+            id="ELabel"
+            text="E"
+            x="70"
+            y="230"
+            font="Graphics.FONT_MEDIUM"
+            color="Graphics.COLOR_ORANGE"
+            justification="Graphics.TEXT_JUSTIFY_LEFT"
+        />
+
+        <label
+            id="ECoordinate"
+            text="------"
+            x="110"
+            y="230"
+            font="Graphics.FONT_MEDIUM"
+            color="Graphics.COLOR_WHITE"
+            justification="Graphics.TEXT_JUSTIFY_LEFT"
+        />
+
+        <label
+            id="QualityLabel"
+            text="GPS Quality"
+            x="center"
+            y="300"
+            font="Graphics.FONT_SMALL"
+            color="Graphics.COLOR_ORANGE"
+            justification="Graphics.TEXT_JUSTIFY_CENTER"
+        />
+
+        <label
+            id="QualityValue"
+            text="Searching ..."
+            x="center"
+            y="350"
+            font="Graphics.FONT_SMALL"
+            color="Graphics.COLOR_WHITE"
+            justification="Graphics.TEXT_JUSTIFY_CENTER"
+        />
+
+    </layout>
+</resources>
