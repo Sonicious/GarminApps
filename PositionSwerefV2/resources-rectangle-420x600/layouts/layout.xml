@@ -2,7 +2,7 @@
     <layout id="MainLayout">
 
         <label
-            text="SWEREF 99 TM"
+            text="SWEREF99TM"
             x="center"
             y="55"
             font="Graphics.FONT_MEDIUM"

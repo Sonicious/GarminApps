@@ -12,5 +12,8 @@
     <string id="QualityPoor">Poor</string>
     <string id="QualityUsable">Usable</string>
     <string id="QualityGood">Good</string>
+    
+    <string id="MinutesAgo" scope="glance">$1$ min ago</string>
+    <string id="NoPosition" scope="glance">No position</string>
 
 </strings>

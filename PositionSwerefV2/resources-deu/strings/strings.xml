@@ -13,4 +13,7 @@
     <string id="QualityUsable">Brauchbar</string>
     <string id="QualityGood">Gut</string>
 
+    <string id="MinutesAgo" scope="glance">vor $1$ Min.</string>
+    <string id="NoPosition" scope="glance">Keine Position</string>
+
 </strings>
