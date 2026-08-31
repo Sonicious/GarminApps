@@ -3,6 +3,8 @@ import Toybox.Position;
 import Toybox.WatchUi;
 import Toybox.Lang;
 import Toybox.System;
+import Toybox.Application;
+import Toybox.Time;
 
 class PositionSwerefV2View extends WatchUi.View {
 
@@ -50,7 +52,7 @@ class PositionSwerefV2View extends WatchUi.View {
     }
 
     function onPosition(info as Position.Info) as Void {
-        var qualityString = "Searching ...";
+        var qualityString = Rez.Strings.Searching;
         var northString = "-------";
         var eastString = "------";
 
@@ -64,38 +66,43 @@ class PositionSwerefV2View extends WatchUi.View {
                 _swerefConverter.convert(
                     info.position.toRadians()
                 );
-
             northString =
                 swerefCoordinates[0].toNumber().toString();
-
             eastString =
                 swerefCoordinates[1].toNumber().toString();
+            
+            Application.Storage.setValue(
+                "lastNorth",
+                northString);
+            Application.Storage.setValue(
+                "lastEast",
+                eastString);
+            Application.Storage.setValue(
+                "lastTimestamp",
+                Time.now().value());
         }
 
         switch (accuracy) {
 
             case Position.QUALITY_NOT_AVAILABLE:
-                qualityString = "GPS Disabled";
-                break;
-
             case Position.QUALITY_LAST_KNOWN:
-                qualityString = "Searching ...";
+                qualityString = Rez.Strings.Searching;
                 break;
 
             case Position.QUALITY_POOR:
-                qualityString = "Poor";
+                qualityString = Rez.Strings.QualityPoor;
                 break;
 
             case Position.QUALITY_USABLE:
-                qualityString = "Usable";
+                qualityString = Rez.Strings.QualityUsable;
                 break;
 
             case Position.QUALITY_GOOD:
-                qualityString = "Good";
+                qualityString = Rez.Strings.QualityGood;
                 break;
 
             default:
-                qualityString = "Searching ...";
+                qualityString = Rez.Strings.Searching;
                 break;
         }
 

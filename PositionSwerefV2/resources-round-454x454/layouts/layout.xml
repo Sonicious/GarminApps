@@ -52,7 +52,7 @@
 
         <label
             id="QualityLabel"
-            text="GPS Quality"
+            text="@Strings.GpsQuality"
             x="center"
             y="300"
             font="Graphics.FONT_SMALL"
@@ -62,7 +62,7 @@
 
         <label
             id="QualityValue"
-            text="Searching ..."
+            text="@Strings.Searching"
             x="center"
             y="350"
             font="Graphics.FONT_SMALL"

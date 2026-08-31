@@ -159,10 +159,11 @@ class SwerefConverter {
 
         var roundedNorthing =
             Math.round(northing / 10.0d) * 10;
-        System.println("North rounded: " + roundedNorthing);
+        //System.println("North rounded: " + roundedNorthing);
 
         var roundedEasting =
             Math.round(easting / 10.0d) * 10;
+        //System.println("East rounded: " + roundedEasting);
 
         return [
             roundedNorthing,

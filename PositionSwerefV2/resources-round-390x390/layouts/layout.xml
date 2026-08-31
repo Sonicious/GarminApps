@@ -62,7 +62,7 @@
 
         <label
             id="QualityValue"
-            text="Searching ..."
+            text="@strings.Searching"
             x="center"
             y="305"
             font="Graphics.FONT_SMALL"

@@ -7,10 +7,10 @@
     <string id="North">N</string>
     <string id="East">E</string>
 
-    <string id="GpsQuality">GPS Quality</string>
-    <string id="Searching">Searching ...</string>
-    <string id="QualityPoor">Poor</string>
-    <string id="QualityUsable">Usable</string>
-    <string id="QualityGood">Good</string>
+    <string id="GpsQuality">GPS-Qualität</string>
+    <string id="Searching">Suche ...</string>
+    <string id="QualityPoor">Schlecht</string>
+    <string id="QualityUsable">Brauchbar</string>
+    <string id="QualityGood">Gut</string>
 
 </strings>
